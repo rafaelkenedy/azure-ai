@@ -1,0 +1,43 @@
+# O que é Análise de Sentenças com Azure AI?
+
+A Análise de Sentenças com Azure AI faz parte do serviço de Linguagem de IA do Azure (*Azure Language Service*) e tem como objetivo ajudar a entender melhor o conteúdo de textos escritos, sejam eles frases curtas ou textos maiores.
+
+Esse serviço usa inteligência artificial para analisar automaticamente um texto e entregar informações importantes.
+
+---
+
+## O que ele consegue identificar:
+- Qual é o idioma do texto (português, inglês, espanhol, etc.)
+- Qual o sentimento da frase (positivo, negativo ou neutro)
+- Quais são as palavras ou frases mais importantes (*frases-chave*)
+- Quais são os temas principais do texto
+
+---
+
+## Para que serve?
+
+Esse tipo de análise é muito útil para:
+- Empresas que querem entender feedbacks de clientes
+- Estudantes que querem organizar ideias e resumos
+- Professores que querem analisar respostas de alunos
+- Bots que precisam responder perguntas com base em texto
+- Analisar comentários, pesquisas ou opiniões em redes sociais
+
+---
+
+## Exemplo prático:
+
+Se você colocar a frase:
+
+> "Estou muito feliz porque consegui boas notas na prova."
+
+O Azure AI pode identificar:
+
+- **Idioma:** Português  
+- **Sentimento:** Positivo  
+- **Frases-chave:** "feliz", "boas notas", "prova"
+
+---
+
+## Resumindo:
+A Análise de Sentenças com Azure AI transforma um texto simples em dados organizados e inteligentes, facilitando o entendimento, a análise e a tomada de decisões.
